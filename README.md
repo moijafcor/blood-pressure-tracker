@@ -1,10 +1,10 @@
 # blood-pressure-tracker
-A "bare to the bones" app for logging blood pressure readings writing in Python.
+A "bare to the bones" app for logging blood pressure readings written in Python.
 
 ## Features
 
-- A simple way to log blood pressure readings using your Terminal (This should simplify its integration to other tools like a Digital Assistant, etc. using just Bash piping ).
-- Readings are persisted on an Excel file on a path specified on the configuration file
+- A simple way to log blood pressure readings using your Terminal (This should simplify its integration with other tools like a Digital Assistant, etc. using just Bash piping).
+- Readings are persisted in an Excel file at a path specified in the configuration file
 - Plotting a chart with the reading values over time
 - In-terminal rendering of data points in a table format
 - Multi-lingual
@@ -17,6 +17,8 @@ A "bare to the bones" app for logging blood pressure readings writing in Python.
 
 ## Credits
 
-I would like to acknowledge the apt assistance of ChatGPT and Github Copilot; the former for writing a draft of the main script and the latter for its help in writing documentation and other boring stuff.
+I would like to acknowledge the helpful assistance of ChatGPT and GitHub Copilot. ChatGPT generated an initial draft of the main script and Copilot aided in writing documentation and other components, saving me time. 
 
-ChatGPT prompts are included. A curious reader can just use the commits to time travel the code generated via prompting.
+I would also like to thank Claude, Claude is an AI assistant created by Anthropic, who assisted with proofreading this documentation and provided feedback to improve its clarity and completeness.  
+
+ChatGPT prompts are included in the commit history to show the progression of the code over time based on prompting.
