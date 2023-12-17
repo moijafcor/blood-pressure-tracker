@@ -14,6 +14,7 @@ A "bare to the bones" app for logging blood pressure readings written in Python.
 - GUI
 - Installer
 - Google Sheets Integration
+- Writing tests
 
 ## Credits
 
