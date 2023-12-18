@@ -1,0 +1,7 @@
+gnureadline
+gspread
+matplotlib
+openpyxl
+pandas
+pytz
+python-dotenv
